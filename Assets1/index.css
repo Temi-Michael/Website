@@ -135,7 +135,7 @@ a {
 
 .head_link {
     width: 500px;
-    height: 50px;
+    height: 30px;
     border-radius: 10px;
     background-color: transparent;
     border-color: purple;
@@ -144,7 +144,7 @@ a {
     font-size: 23px;
     font-weight: bold;
     text-transform: capitalize;
-    
+    padding: 10px;
 }
 
 .section {
