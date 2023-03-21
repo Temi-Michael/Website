@@ -146,3 +146,7 @@ a {
     text-transform: capitalize;
     
 }
+
+.section {
+    margin-top: 80px;
+}
