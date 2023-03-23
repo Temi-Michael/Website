@@ -32,4 +32,5 @@
     color: orange;
     font-size: 50px;
     text-transform: lowercase;
+    text-shadow: 10px left blue;
   }
