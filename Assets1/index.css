@@ -205,3 +205,26 @@ button {
 }
 
 
+
+
+.container {
+  height: 1000px; /* Set a height for the container */
+  position: relative;
+}
+
+.hidden {
+  opacity: 0; /* Set the opacity of the text to 0 */
+  transition: opacity 1s ease-in-out; /* Add a transition effect */
+}
+
+.scroll-up .hidden {
+  opacity: 1; /* When the scroll-up class is added, make the text reappear by changing the opacity */
+}
+
+.annex-phone {
+  font-size: 10px;
+  margin-left: 100px;
+
+}
+
+
